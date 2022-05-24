@@ -124,7 +124,7 @@ darkmode.app.jwtExpirationMs= 86400000
 
 Note: You will need to install Java 8 or above
 * From terminal, cd to directory where project will be located
-* git clone repository https://github.com/brabin10/Project1/tree/main/ERSProject
+* git clone repository https://github.com/brabin10/project2/tree/main/RevNote
 * git pull
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
