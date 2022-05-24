@@ -1,1 +1,1 @@
-# project2
+# Go to RevNote repo for details
