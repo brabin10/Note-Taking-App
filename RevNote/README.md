@@ -1,5 +1,25 @@
 # 220321-Java-React-Team2-P2
-team 2 P2 Java React Hibernate
+## RevNotes
+Team Darkmode made a fun note taking application called RevNotes for Revature trainees. It features login, registration, note creation, and a weather feature. The App runs on a stack incorporating various industry grade technologies. Technologies include a Spring Backend with REST APl controllers serving data from a PostgreSQL database instance, a React Redux dispatcher for login and note actions in Typescript as well a charming and minimalistic CSS frontend for theming.
+
+RevNotes has potential to become a full fledged planning application for trainees to help them stay organized and focused while also having fun. Possible features to add include: light and dark mode, a calendar, pop-up reminders, to-do lists, stickers, and background themes. As a group we are proud of what we have created and look forward to working further on new and exciting projects.
+
+## Technologies
+* HTML/CSS/
+* Typescript
+* Javascript
+* React.js
+* JWT
+* Hooks
+* Redux
+* Spring mvc
+* Java
+* Hibernate
+* Junit
+* Rest API
+* Spring
+* PostgreSQL
+
 
 
 
@@ -147,4 +167,5 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-
+## License
+Licensed under the [MIT License](LICENSE).
