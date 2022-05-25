@@ -191,5 +191,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 # Weather 
 ![img](img/4.png)
 
+# Contributor
+Rabin, Rakan, Valorie, Jacob, Kokou
+
 ## License
 Licensed under the [MIT License](LICENSE).
