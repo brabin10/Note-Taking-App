@@ -20,8 +20,13 @@ RevNotes has potential to become a full fledged planning application for trainee
 * Spring
 * PostgreSQL
 
+# Features
 
-
+* User login
+* Registration
+* Weather info
+* Add notes
+* Layout automatically adjusts when adding new notes
 
 ## Spring Security Implementation
 Our API is now secured via JWT Json Web Token Encryption, on running the application Spring Security will generate 3 boilerplate tables, User, User_Roles, and ROLES. I have defined these roles in an ENUM called ROLES_ENUM
