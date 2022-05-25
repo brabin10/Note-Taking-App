@@ -12,13 +12,16 @@ RevNotes has potential to become a full fledged planning application for trainee
 * JWT
 * Hooks
 * Redux
+* Spring
+* Spring Security
+* Spring JDBC
 * Spring mvc
 * Java
 * Hibernate
 * Junit
 * Rest API
-* Spring
 * PostgreSQL
+* Maven
 
 # Features
 
