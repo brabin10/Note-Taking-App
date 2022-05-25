@@ -171,5 +171,17 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+# Login page
+![img](img/1.png)
+
+# Registration page
+![img](img/2.png)
+
+# Dashboard
+![img](img/3.png)
+
+# Weather 
+![img](img/4.png)
+
 ## License
 Licensed under the [MIT License](LICENSE).
